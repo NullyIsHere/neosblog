@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://neosblog_labs.altex.page/sitemap.xml.gz
+Sitemap: https://neosbloglabs.altex.page/sitemap.xml.gz
